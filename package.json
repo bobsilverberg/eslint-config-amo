@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-amo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Eslint config for amo based projects",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "eslint": "^4.5.0"
   },
   "peerDependencies": {
-    "eslint": "^3.19.0 || ^4.5.0"
+    "eslint": "^4.5.0"
   }
 }
